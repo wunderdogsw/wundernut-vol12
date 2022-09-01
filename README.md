@@ -24,7 +24,7 @@ Can you write some code to translate the hidden and encrypted text back to muggl
 
 ## Rules
 
-* Use [submission form] (https://www.wunderdog.fi/wundernut) to submit your contribution.
+* Use [submission form](https://www.wunderdog.fi/wundernut) to submit your contribution.
 * The submission must include full source code and instructions to compile and run the program.
 * All submissions will be reviewed by a jury consisting of Wunderdog developers.
 * The best submissions in code quality metrics terms (https://blog.cloudboost.io/code-quality-metrics-67dc861ac139) will be selected as winners.
